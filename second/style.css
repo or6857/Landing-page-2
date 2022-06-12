@@ -1,0 +1,72 @@
+*{
+    background-color: #12698f;
+    color: #E4E9BE;
+    font-family:'Poppins','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#heading{
+    font-family:'Poppins','Courier New', Courier, monospace;
+    padding: 0 10px;
+    width: 50%;
+    margin: 0 auto;
+text-align: center;
+font-size: 30px;
+}
+
+#info{
+    font-family:'Courier New', Courier, monospace;
+    padding:  10px;
+    width: 50%;
+    margin: 0 auto;
+text-align: center;
+font-size: 25px;
+}
+
+#Question{
+    margin: 0 auto;
+    padding: 60px;
+    text-align: center;
+}
+
+#lives{
+    margin:0 auto;
+    padding:20px;
+    text-align:center ;
+}
+
+#button{
+    padding: 0 20px;
+    text-align: center;
+    width:50%;
+    margin: 0 auto;
+}
+
+ .btn-1{
+    font-size:18px;
+    color:#E4E9BE;
+    border:#E4E9BE 1px solid;
+    padding:10px 20px;
+    border-radius:10px;
+    margin:10px;
+}
+
+.btn-2{
+    font-size:18px;
+    color:#E4E9BE;
+    border:#E4E9BE 1px solid;
+    padding:10px 20px;
+    border-radius:10px;
+    margin:10px;
+}
+
+.btn-1:hover, .btn-1:hover a{
+    background: #E4E9BE;
+    color: #12698f;
+    
+  }
+
+.btn-2:hover, .btn-2:hover a{
+    background-color: #E4E9BE;
+    color: #12698f;
+    
+}
